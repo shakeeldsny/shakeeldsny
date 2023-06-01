@@ -18,7 +18,3 @@ My Name is Mohammed Shakeel.<br><br>
 | [Play Store App Review Analysis](https://github.com/shakeeldsny/play-store-app-review-analysis) | ![NumPy](https://img.shields.io/badge/NumPy-black?style=flat-square&logo=numpy)![Pandas](https://img.shields.io/badge/Pandas-black?style=flat-square&logo=pandas) <br>|
 </td></tr> 
 </table>
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
